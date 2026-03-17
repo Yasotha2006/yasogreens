@@ -1,0 +1,12 @@
+Fruits List
+
+1. Apple
+2. Banana
+3. Mango
+4. Orange
+5. Grapes
+6. Pineapple
+7. Watermelon
+8. Papaya
+9. Strawberry
+10. Guava

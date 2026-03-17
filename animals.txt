@@ -1,0 +1,12 @@
+Animals List
+
+1. Dog
+2. Cat
+3. Elephant
+4. Lion
+5. Tiger
+6. Horse
+7. Cow
+8. Goat
+9. Monkey
+10. Deer

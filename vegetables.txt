@@ -1,0 +1,12 @@
+Vegetables List
+
+1. Carrot
+2. Potato
+3. Tomato
+4. Onion
+5. Cabbage
+6. Spinach
+7. Brinjal
+8. Cauliflower
+9. Beans
+10. Peas
